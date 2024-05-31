@@ -1,0 +1,223 @@
+
+[
+    {
+        "id_usuario": 1,
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "correo_electronico": "juan@example.com",
+        "contrasena": "contrasena1",
+        "fecha_nacimiento": "1990-05-15",
+        "telefono": "123456789",
+        "verificado": "S",
+        "pais_origen": "Mexico"
+    },
+    {
+        "id_usuario": 2,
+        "nombre": "Maria",
+        "apellido": "Gonzalez",
+        "correo_electronico": "maria@example.com",
+        "contrasena": "contrasena2",
+        "fecha_nacimiento": "1988-10-20",
+        "telefono": "987654321",
+        "verificado": "S",
+        "pais_origen": "Spain"
+    },
+    {
+        "id_usuario": 3,
+        "nombre": "Pedro",
+        "apellido": "Martinez",
+        "correo_electronico": "pedro@example.com",
+        "contrasena": "contrasena3",
+        "fecha_nacimiento": "1985-03-25",
+        "telefono": "555555555",
+        "verificado": "N",
+        "pais_origen": "Argentina"
+    },
+    {
+        "id_usuario": 4,
+        "nombre": "Ana",
+        "apellido": "Lopez",
+        "correo_electronico": "ana@example.com",
+        "contrasena": "contrasena4",
+        "fecha_nacimiento": "1995-12-10",
+        "telefono": "777777777",
+        "verificado": "S",
+        "pais_origen": "USA"
+    },
+    {
+        "id_usuario": 5,
+        "nombre": "Carlos",
+        "apellido": "Sanchez",
+        "correo_electronico": "carlos@example.com",
+        "contrasena": "contrasena5",
+        "fecha_nacimiento": "1982-08-03",
+        "telefono": "999999999",
+        "verificado": "S",
+        "pais_origen": "Colombia"
+    },
+    {
+        "id_usuario": 6,
+        "nombre": "Laura",
+        "apellido": "Rodriguez",
+        "correo_electronico": "laura@example.com",
+        "contrasena": "contrasena6",
+        "fecha_nacimiento": "1993-07-01",
+        "telefono": "111111111",
+        "verificado": "N",
+        "pais_origen": "Chile"
+    },
+    {
+        "id_usuario": 7,
+        "nombre": "Roberto",
+        "apellido": "Garcia",
+        "correo_electronico": "roberto@example.com",
+        "contrasena": "contrasena7",
+        "fecha_nacimiento": "1987-04-12",
+        "telefono": "222222222",
+        "verificado": "S",
+        "pais_origen": "Peru"
+    },
+    {
+        "id_usuario": 8,
+        "nombre": "Sofia",
+        "apellido": "Diaz",
+        "correo_electronico": "sofia@example.com",
+        "contrasena": "contrasena8",
+        "fecha_nacimiento": "1989-09-28",
+        "telefono": "333333333",
+        "verificado": "N",
+        "pais_origen": "Brazil"
+    },
+    {
+        "id_usuario": 9,
+        "nombre": "Alejandro",
+        "apellido": "Hernandez",
+        "correo_electronico": "alejandro@example.com",
+        "contrasena": "contrasena9",
+        "fecha_nacimiento": "1992-06-07",
+        "telefono": "444444444",
+        "verificado": "S",
+        "pais_origen": "Ecuador"
+    },
+    {
+        "id_usuario": 10,
+        "nombre": "Julia",
+        "apellido": "Alvarez",
+        "correo_electronico": "julia@example.com",
+        "contrasena": "contrasena10",
+        "fecha_nacimiento": "1984-11-30",
+        "telefono": "666666666",
+        "verificado": "S",
+        "pais_origen": "Uruguay"
+    },
+    {
+        "id_usuario": 11,
+        "nombre": "Daniel",
+        "apellido": "Torres",
+        "correo_electronico": "daniel@example.com",
+        "contrasena": "contrasena11",
+        "fecha_nacimiento": "1986-02-18",
+        "telefono": "888888888",
+        "verificado": "N",
+        "pais_origen": "Venezuela"
+    },
+    {
+        "id_usuario": 12,
+        "nombre": "Lucia",
+        "apellido": "Fernandez",
+        "correo_electronico": "lucia@example.com",
+        "contrasena": "contrasena12",
+        "fecha_nacimiento": "1997-08-14",
+        "telefono": "000000000",
+        "verificado": "S",
+        "pais_origen": "Panama"
+    },
+    {
+        "id_usuario": 13,
+        "nombre": "Miguel",
+        "apellido": "Ramirez",
+        "correo_electronico": "miguel@example.com",
+        "contrasena": "contrasena13",
+        "fecha_nacimiento": "1991-01-23",
+        "telefono": "101010101",
+        "verificado": "S",
+        "pais_origen": "Bolivia"
+    },
+    {
+        "id_usuario": 14,
+        "nombre": "Valeria",
+        "apellido": "Lopez",
+        "correo_electronico": "valeria@example.com",
+        "contrasena": "contrasena14",
+        "fecha_nacimiento": "1983-05-07",
+        "telefono": "202020202",
+        "verificado": "N",
+        "pais_origen": "Paraguay"
+    },
+    {
+        "id_usuario": 15,
+        "nombre": "Fernando",
+        "apellido": "Gomez",
+        "correo_electronico": "fernando@example.com",
+        "contrasena": "contrasena15",
+        "fecha_nacimiento": "1996-03-08",
+        "telefono": "303030303",
+        "verificado": "S",
+        "pais_origen": "Costa Rica"
+    },
+    {
+        "id_usuario": 16,
+        "nombre": "Elena",
+        "apellido": "Martinez",
+        "correo_electronico": "elena@example.com",
+        "contrasena": "contrasena16",
+        "fecha_nacimiento": "1981-09-16",
+        "telefono": "404040404",
+        "verificado": "S",
+        "pais_origen": "Nicaragua"
+    },
+    {
+        "id_usuario": 17,
+        "nombre": "Ismael",
+        "apellido": "Alvarez",
+        "correo_electronico": "ismael@example.com",
+        "contrasena": "contrasena17",
+        "fecha_nacimiento": "1980-07-26",
+        "telefono": "505050505",
+        "verificado": "N",
+        "pais_origen": "El Salvador"
+    },
+    {
+        "id_usuario": 18,
+        "nombre": "Paula",
+        "apellido": "Gonzalez",
+        "correo_electronico": "paula@example.com",
+        "contrasena": "contrasena18",
+        "fecha_nacimiento": "1998-04-05",
+        "telefono": "606060606",
+        "verificado": "S",
+        "pais_origen": "Guatemala"
+    },
+    {
+        "id_usuario": 19,
+        "nombre": "Diego",
+        "apellido": "Herrera",
+        "correo_electronico": "diego@example.com",
+        "contrasena": "contrasena19",
+        "fecha_nacimiento": "1988-11-11",
+        "telefono": "707070707",
+        "verificado": "S",
+        "pais_origen": "Honduras"
+    },
+    {
+        "id_usuario": 20,
+        "nombre": "Andrea",
+        "apellido": "Perez",
+        "correo_electronico": "andrea@example.com",
+        "contrasena": "contrasena20",
+        "fecha_nacimiento": "1994-06-19",
+        "telefono": "808080808",
+        "verificado": "N",
+        "pais_origen": "Dominican Republic"
+    }
+]

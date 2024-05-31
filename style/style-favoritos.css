@@ -1,0 +1,38 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.header-bg {
+    background-image: url('https://i.ibb.co/vXWDrDn/bannerfavs.png');
+    background-size: cover;
+    background-position: center;
+    height: 150px; /* Ajusta la altura según sea necesario */
+}
+
+.logo-button {
+    left: 20px; /* Ajusta según sea necesario */
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.logo-button img {
+    height: 130px; /* Ajusta según sea necesario */
+}
+
+h1 {
+    margin: 0;
+     /* Ajusta según sea necesario */
+}
+
+.btn_reload{
+    background-color: transparent;
+    border: 0;
+    color: orange;
+}
+.cards{
+    background-color: 246, 249, 242;
+}

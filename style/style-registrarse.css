@@ -1,0 +1,51 @@
+body {
+    position: relative;
+    background-color: #f8f9fa;
+    /* Fondo general de la página */
+    min-height: 100vh;
+    /* Asegura que el cuerpo ocupe al menos toda la altura de la ventana */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.background-image {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 25%;
+    object-fit: cover;
+    z-index: -1;
+    /* Asegura que las imágenes queden detrás del contenido */
+}
+
+@media (max-width: 1200.98px) {
+    .background-image {
+        position: absolute;
+        top: 25%;
+        bottom: 0;
+        width: 25%;
+        height: 50%;
+    }
+}
+
+
+
+    .left-bg {
+        left: 0;
+    }
+
+    .right-bg {
+        right: 0;
+    }
+
+    .register-container {
+        z-index: 1;
+        /* Asegura que el contenido quede delante de las imágenes de fondo */
+        background-color: #ffffff;
+        /* Fondo blanco para el área del formulario */
+        padding: 2rem;
+        border-radius: 0.5rem;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
